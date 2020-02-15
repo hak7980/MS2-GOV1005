@@ -9,22 +9,26 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+#### **Project 1**
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+##### **Housing Price Analysis by Shriank Kanaparti**
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+There were a number of things that I liked about this project. 
 
-```{r cars}
-summary(cars)
-```
+The method in which the data was presented was very easy to interpret as it was mapped onto different US states. You could see how housing prices had changed within the US for the  states visually and I thought that was a very effective way to present the data. The linechart that complemented this graph was another great way to see these trends. Including a regression line with standard error intervals was also a nice touch. 
 
-## Including Plots
+At the same time, however, I think the project could be improved in a number of ways. I think the summary was a little too brief. I felt that having a bit more information about the project would have been useful. The formatting could  have been improved because the style of the text was a bit inconsistent. The visualizaton could be made more clear by making some basic formatting changes. For example, the legend on the first graph was covering some of the data that was shown. 
 
-You can also embed plots, for example:
+All in all, it was good project but could definitely have been improved if some formatting changes had been made. 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+#### **Project 2**
+
+##### **Analyzing NFL Player Ratings and Draft data between 2008  and 2012 by Noah Reimers**
+
+I think this was a very interesting project and something along the lines of what I'm thinking about doing for my final project as well. 
+
+The data was presented in a scatter plot and you could see what the association between your specific player ratings and winning percentage was. This highlighted how certain positions were more or less important to a team's success. I think that this could have been taken a step further by exploring the relationship between the different positions within a team as well. For example, is the association between the winning percentage and how good your quarterback is conditional on how good your linebacker is? I think the data was there to answer such a question and would have made the analysis a bit more engaging. 
+
+Additonally, I think the manner in which the data was presented was not extremely effective. There was no summary of the project and what it intended to do. The user basically had to navigate the dataset themself and it took a bit of time to fully understand what was going on. Also, I think the use of different visualization techniques such as a barplot could have made the analysis more insightful. Lastly, the labels of the graphs should have been labelled in a more detailed manner so that it was clear what relationship was being plotted. 
+
