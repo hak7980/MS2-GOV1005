@@ -1,5 +1,5 @@
 ---
-title: "MS_2"
+title: "Milestone 2"
 author: "Hamid Khan"
 date: "2/14/2020"
 output: html_document
@@ -8,6 +8,8 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+*Github Repo:* https://github.com/hak7980/MS2-GOV1005
 
 #### **Project 1**
 
@@ -31,4 +33,6 @@ I think this was a very interesting project and something along the lines of wha
 The data was presented in a scatter plot and you could see what the association between your specific player ratings and winning percentage was. This highlighted how certain positions were more or less important to a team's success. I think that this could have been taken a step further by exploring the relationship between the different positions within a team as well. For example, is the association between the winning percentage and how good your quarterback is conditional on how good your linebacker is? I think the data was there to answer such a question and would have made the analysis a bit more engaging. 
 
 Additonally, I think the manner in which the data was presented was not extremely effective. There was no summary of the project and what it intended to do. The user basically had to navigate the dataset themself and it took a bit of time to fully understand what was going on. Also, I think the use of different visualization techniques such as a barplot could have made the analysis more insightful. Lastly, the labels of the graphs should have been labelled in a more detailed manner so that it was clear what relationship was being plotted. 
+
+
 
